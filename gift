@@ -1,10 +1,42 @@
-giảm 5k/50k coins
-giảm 10k trên tổng hoá đơn
-giảm 10k/50k coins
-giảm 20k trên tổng hoá đơn
-giảm 10% hoá đơn
-tặng 50k coins
-tặng 1k gems
-tặng 30k coins
-tặng 100k coins
-tặng 30 wins
+[
+  {
+    "type": "discount",
+    "text": "Giảm 5K / 50K Coins"
+  },
+  {
+    "type": "discount",
+    "text": "Giảm 10K trên tổng hóa đơn"
+  },
+  {
+    "type": "discount",
+    "text": "Giảm 10K / 50K Coins"
+  },
+  {
+    "type": "discount",
+    "text": "Giảm 20K trên tổng hóa đơn"
+  },
+  {
+    "type": "discount",
+    "text": "Giảm 10% hóa đơn"
+  },
+  {
+    "type": "free_coins",
+    "text": "Tặng 50K Coins"
+  },
+  {
+    "type": "free_gems",
+    "text": "Tặng 1K Gems"
+  },
+  {
+    "type": "free_coins",
+    "text": "Tặng 30K Coins"
+  },
+  {
+    "type": "free_coins",
+    "text": "Tặng 100K Coins"
+  },
+  {
+    "type": "rewards",
+    "text": "Tặng 30 Wins"
+  }
+]
