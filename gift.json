@@ -1,41 +1,51 @@
 [
   {
+    "uid": "5832147",
     "type": "discount",
     "text": "Giảm 5K / 50K Coins"
   },
   {
+    "uid": "9147263",
     "type": "discount",
     "text": "Giảm 10K trên tổng hóa đơn"
   },
   {
+    "uid": "3628501",
     "type": "discount",
     "text": "Giảm 10K / 50K Coins"
   },
   {
+    "uid": "7401936",
     "type": "discount",
     "text": "Giảm 20K trên tổng hóa đơn"
   },
   {
+    "uid": "2516849",
     "type": "discount",
     "text": "Giảm 10% hóa đơn"
   },
   {
+    "uid": "8264371",
     "type": "free_coins",
     "text": "Tặng 50K Coins"
   },
   {
+    "uid": "4937158",
     "type": "free_gems",
     "text": "Tặng 1K Gems"
   },
   {
+    "uid": "6759204",
     "type": "free_coins",
     "text": "Tặng 30K Coins"
   },
   {
+    "uid": "1385642",
     "type": "free_coins",
     "text": "Tặng 100K Coins"
   },
   {
+    "uid": "9073216",
     "type": "rewards",
     "text": "Tặng 30 Wins"
   }
